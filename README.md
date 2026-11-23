@@ -1,5 +1,6 @@
 # DSA Visualizer
 
+
 A Next.js web app that animates sorting algorithms, grid pathfinding and core data structures.
 All data structures and algorithms are implemented from scratch in `lib/`; the UI only draws their output.
 
